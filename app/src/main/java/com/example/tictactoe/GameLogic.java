@@ -41,7 +41,6 @@ public class GameLogic {
             }
             else{
                 playerTurn.setText((playerNames[0] + "'s turn"));
-
             }
 
             return true;
