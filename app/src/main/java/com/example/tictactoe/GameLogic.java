@@ -8,6 +8,8 @@ public class GameLogic {
     private int[][] gameBoard;
 
     //1st element -->row, 2nd element --> col, 3rd element --> line type
+
+
     private int[] winType = {-1, -1, -1};
 
     private String[] playerNames = {"Player1","Player2"};
